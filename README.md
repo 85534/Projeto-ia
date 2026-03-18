@@ -26,7 +26,7 @@ A Historia do mundo.
 
 O comeco das civilizacoes.
 
-Do coneco da humanidade ate a epoca atual.
+Do comeco da humanidade ate a epoca atual.
 
 Resumo: 
 Como tudo comecou, as primeira civilizacoes.
