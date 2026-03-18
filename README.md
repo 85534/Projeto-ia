@@ -1,11 +1,11 @@
-se# Projeto-ia
+ Projeto-ia
 Entrega de projeto ia
 
 Contexto:
-historua do mundo
+historia do mundo como tudo comecou 
 
 Objetivo:
-Aprender sobre a historia do mundo como tudo comecou.
+Aprender sobre a historia do mundo como tudo comecou, e as primeiras civilizacoes.
 
 Links utilizados:
 https://youtu.be/X-N0nPb_iw4?si=RwUvyBY0li7k3qtI
