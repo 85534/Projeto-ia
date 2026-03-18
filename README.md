@@ -1,4 +1,4 @@
-# Projeto-ia
+se# Projeto-ia
 Entrega de projeto ia
 
 Contexto:
@@ -20,7 +20,28 @@ https://youtu.be/NSwHKiSZDsA?si=_Tiwb6SrMr_11mMs
 https://youtube.com/playlist?list=PLAr322Yg8UkAfoWRh7UaeaRm8cRY7BAfH&si=mZqLf5UHGtHOkp_T
 
 
+Prompts que usei:
 
+A Historia do mundo.
+
+O comeco das civilizacoes.
+
+Do coneco da humanidade ate a epoca atual.
+
+Resumo: 
+Como tudo comecou, as primeira civilizacoes.
+
+
+
+
+Grossario:
+tudo comecou com o bing bang a bilhoes de anos atras e assim se formarao as supernovas. e se deu inicio a vida as civilizacoes e tudo que conhecemos hoje.
+
+
+Promots reutilizaveis:
+O comeco do mundo.
+O inicio da humanidade.
+Do inicio de tudo ate as epocas atuais.
 
 
 
