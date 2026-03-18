@@ -1,5 +1,4 @@
  Projeto-ia
-Entrega de projeto ia
 
 Contexto:
 historia do mundo como tudo comecou 
